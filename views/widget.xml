@@ -1,0 +1,9 @@
+<Alloy>
+	<View id="main">
+		<VideoPlayer ns="Ti.Media" id="videoPlayer" />
+		<View id="thumbnailCover">
+			<ImageView id="thumbnailCoverImg" />
+			<ImageView id="playButton" />
+		</View>
+	</View>
+</Alloy>

@@ -1,0 +1,24 @@
+"#main":{
+	backgroundColor:  '#000'
+},
+"#videoPlayer":{
+	touchEnabled: false,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+},
+"#thumbnailCover":{
+	opacity: 1,
+	touchEnabled: false,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+},
+"#thumbnailCoverImg":{
+	touchEnabled: false,
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL
+},
+"#playButton": {
+	touchEnabled: false,
+	width: "20%",
+	image: '/images/play.png'
+}
